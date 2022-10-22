@@ -72,37 +72,45 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "Software Developer Student",
+        "years": "09.2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "JavaScript",
+          "React"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "React",
+          "HTML-5",
+          "CSS-3"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "US Navy Reserves",
+        "title": "Logistic Specialist",
+        "years": "09.2020 - Present",
         "mainTech": [
-          "Angular 7/8"
+          ""
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Microsoft Teams",
+          "Microsoft Outlook"
+        ]
+      },
+      {
+        "company": "US Navy Active Duty",
+        "title": "Logistic Specialist",
+        "years": "03.2012 - 09.2020",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "R-Supply",
+          "Nalcomis",
+          "Microsoft Outlook",
+          "Microsoft Excel"
         ]
       }
     ]
