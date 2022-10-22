@@ -10,9 +10,9 @@ Estimate of time needed to complete: 15-30minutes
 
 Start time: 10:55pm
 
-Finish time: _____
+Finish time: 11:15
 
-Actual time needed to complete: _____
+Actual time needed to complete: 20min
 
 ## My Portfolio
 
