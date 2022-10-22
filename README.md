@@ -14,6 +14,16 @@ Finish time: 11:15
 
 Actual time needed to complete: 20min
 
+Number and name of feature: ___Steps 2-5____
+
+Estimate of time needed to complete: 1-2hours
+
+Start time: 4:15pm
+
+Finish time: 6:54pm11:15
+
+Actual time needed to complete: 2 hours and 39min
+
 ## My Portfolio
 
 - [My Portfolio](https://nerissa-leynes-portfolio.netlify.app/)
