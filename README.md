@@ -17,3 +17,9 @@ Actual time needed to complete: 20min
 ## My Portfolio
 
 - [My Portfolio](https://nerissa-leynes-portfolio.netlify.app/)
+
+## Resources
+
+- Image Credits
+  - [Header section](https://unsplash.com/photos/FDHsMkQ5hzA)
+  - [Experience section](https://unsplash.com/photos/vs6a4EHj_Ro)
