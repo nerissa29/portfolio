@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Hi, I'm Nerissa",
+      "description": "👋 Hi, my name is Nerissa Leynes. I served eight years of Active Duty in the Navy and am currently in the reserves. I decided to pursue a career in the tech field because I found coding interesting, stressful, and challenging. Coding allows me to implement features and make the web page interactive. Also, I’d like to build an app and hope to work in a team with other software developers in the tech industry. Learn coding here with me in Norfolk, VA 💜💜💜.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,43 +11,19 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Story Not Story",
+        "startDate": "2022",
+        "description": "“Story Not Story” is a group project I collaborated with other developers. It is a 3-web page that includes the Home page, Story or Profile Page, and the About Us Page. It creates a user profile and generates random stories based on user inputs. I mainly worked on designing the page, as well as taking part in some code in JavaScript.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/story-not-story/story Not STory.png",
+          "images/portfolio/story-not-story/story Not STory2.png",
+          "images/portfolio/story-not-story/story Not STory3.png",
+          "images/portfolio/story-not-story/story Not STory4.png"
+
+
         ],
-        "url": "",
+        "url": "https://group-c-201d90.github.io/awesome-project/",
         "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
@@ -55,63 +31,86 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Gallery of Horns",
+        "startDate": "2022",
+        "description": "“Gallery of Horns” is the first web application I created using React and Bootstrap. It allows the user to search for keywords (e.g., “narwhal,” “unicorn,” “rhino”), and the page will then display the images that match the keyword. It also allows the user to enter their name and age and sort the beasts/animals they would like to see by the number of horns.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/gallery-of-horns/gallery-of-horns.png",
+          "images/portfolio/gallery-of-horns/gallery-of-horns2.png",
+          "images/portfolio/gallery-of-horns/gallery-of-horns3.png"
         ],
-        "url": "https://github.com",
+        "url": "https://gallery-horns.netlify.app/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "javaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
+            "class": "devicon-react-plain",
+            "name": "react"
+          }
+        ]
+      },
+      {
+        "title": "Salmon Cookies",
+        "startDate": "2015",
+        "description": "“Salmon Cookies ” is one of the websites that had me working on classes and prototypes, and it includes various computations in JavaScript. The Home Page contains information about the location and working hours. The Sales page provides information on salmon cookie sales per hour and day. It is a business website.",
+        "images": [
+          "images/portfolio/cookie-stand/cookie-stand.png",
+          "images/portfolio/cookie-stand/cookie-stand2.png",
+          "images/portfolio/cookie-stand/cookie-stand3.png"
+
+        ],
+        "url": "https://nerissa29.github.io/cookie-stand/",
+        "technologies": [
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "javaScript"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "Software Developer Student",
+        "years": "09.2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "JavaScript",
+          "React"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "React",
+          "HTML-5",
+          "CSS-3"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "US Navy Reserves",
+        "title": "Logistic Specialist",
+        "years": "09.2020 - Present",
         "mainTech": [
-          "Angular 7/8"
+          ""
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Microsoft Teams",
+          "Microsoft Outlook"
+        ]
+      },
+      {
+        "company": "US Navy Active Duty",
+        "title": "Logistic Specialist",
+        "years": "03.2012 - 09.2020",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "R-Supply",
+          "Nalcomis",
+          "Microsoft Outlook",
+          "Microsoft Excel"
         ]
       }
     ]

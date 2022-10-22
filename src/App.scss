@@ -38,7 +38,25 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+
+	// ..................................................>
+	// <..................................................
+
+	// >>>> changed header background, color etc <<<<
+
+	// background-color: #e9d5a1;
+
+	background-image: url("../public/images/portfolio/olivie-strauss--unsplash.jpg");
+	opacity: 0.7;
+	background-position: center;
+	color: rgb(207, 10, 66);
+	font-weight:800;
+	font-size: 3vh;
+	
+	// ..................................................>
+	// <..................................................
+ 
+
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -46,6 +64,8 @@ header {
 	padding-top: 150px;
 	padding-bottom: 0;
 }
+
+
 
 header .nav {
 	font: 18px/24px 'opensans-bold', sans-serif;
@@ -95,8 +115,22 @@ header h1 {
 	font-size: 400%;
 	text-align: center;
 	font-weight: 600 !important;
-	color: #353239;
-	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+	// ..................................................>
+	// <..................................................
+
+
+	// >>> changed color <<<
+	color: #f46472;
+
+	// >>>>> changed header font <<<<
+	font-family: 'Sacramento', 'Fuzzy Bubbles', cursive;
+
+	// ..................................................>
+	// <..................................................
+
+
 	margin: 0 auto 18px auto;
 	width: 100%;
 }
@@ -120,7 +154,11 @@ header h1 {
 }
 
 #about {
-	background: #fff;
+
+	// background: rgb(219, 122, 138);
+
+	// >>>>> chacnged background color <<<<<<
+	background: rgb(235, 192, 199);
 	overflow: hidden;
 }
 
@@ -231,7 +269,21 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	// ..................................................>
+	// <..................................................
+
+
+	// background: #efe1bd;
+
+	// >>>> hanged background to image <<<<<
+	background-image: url("../public/images/portfolio/annie-spratt-unsplash.jpg");
+	background-position: center;
+	// color: white;
+	font-weight: bolder;
+	font-size: 1vh;
+
+	// ..................................................>
+	// <..................................................
 }
 
 .experience-icon {
@@ -257,14 +309,30 @@ header h1 {
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
 	background-color: #f9f5e9 !important;
-	color: black;
+
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.textCol {
+	color: white;
+	font-weight: 900;
+	font-size: 2.8vh;
 }
 
 .vertical-timeline-element-date {
 	padding: 0 !important;
 	margin: 0 !important;
+
+	// ..................................................>
+	// <..................................................
+
+	// changed font color
+	color: white;
+
+	// ..................................................>
+	// <..................................................
+
 }
 
 @media only screen and (max-width: 1170px) {
@@ -353,7 +421,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background: #957486;
 	padding-bottom: 5%;
 }
 
@@ -389,7 +457,15 @@ header h1 {
 }
 
 #skills {
-	background: #1F1F1F;
+	//......................................................>
+	// <.....................................................
+
+	// changed background color
+	background: #323232;
+
+	//......................................................>
+	// <.....................................................
+
 	min-height: 200px;
 	width: 100%;
 	overflow: hidden;
